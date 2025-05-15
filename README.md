@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👨🏾‍💻 Lucas Sgalla 
 
-<!--
-**sgallalucas/sgallalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Me chamo Lucas Sgalla Paulino, tenho 23 anos, moro em São Paulo-SP e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+<p>
+
+<img  
+      align="left" 
+      alt="GitHub Stats" 
+      height="200px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgallalucas&theme=tokyonight&layout=compact&hide_border=true&custom_title=Linguagens mais usadas&langs_count=1" 
+  />
+
+</p>
